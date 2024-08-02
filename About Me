@@ -1,0 +1,30 @@
+Title: GitHub Explorer
+
+Description:
+A web application designed to explore GitHub repositories, users, and organizations. This project was developed during my internship to enhance my skills in front-end development, API integration, and JavaScript programming.
+
+Features
+User and Repository Search:
+
+Implemented a search functionality to allow users to find GitHub users and repositories quickly.
+Utilized the GitHub API to fetch and display user profiles and repository details dynamically.
+Detailed Repository View:
+
+Displayed detailed information about repositories including the description, star count, forks, and programming language.
+Implemented navigation to view individual repositories with a clean and intuitive interface.
+User Profile View:
+
+Displayed comprehensive user profiles including avatar, bio, repositories, followers, and following count.
+Enabled navigation to user profiles directly from the search results.
+Responsive Design:
+
+Ensured the application is fully responsive, providing an optimal viewing experience across various devices including desktops, tablets, and mobile phones.
+Used CSS media queries to adapt the layout and elements dynamically based on screen size.
+Interactive User Interface:
+
+Designed a user-friendly and interactive interface using modern web technologies.
+Implemented loading indicators and error handling to improve user experience.
+API Integration:
+
+Integrated with the GitHub REST API to fetch real-time data.
+Handled API rate limiting and optimized the number of API calls to ensure efficient data retrieval.
