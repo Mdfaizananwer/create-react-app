@@ -1,0 +1,20 @@
+- So you have to install react from browser
+
+- Open VS code and there is terminal option open and go to new terminal
+
+- Type command
+
+-Choose the name : npx create-react-app my-app
+
+-Change directory : cd my-app ( app name )
+
+-Run : npm start
+
+-If it is correct it will show happy hacking like that
+
+Once done 
+
+Open src check which code I gave you, just edit or replace with my code 
+
+After that when you save automatically it will run 
+
